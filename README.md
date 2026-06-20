@@ -3,7 +3,7 @@
 This is the frontend user interface for **The Daily Scroll** application. It is a standalone React single-page application built with Vite and TailwindCSS.
 
 ## Architecture 
-
+ 
 This frontend is entirely decoupled from the backend. 
 - **Framework**: React 19
 - **Build Tool**: Vite
