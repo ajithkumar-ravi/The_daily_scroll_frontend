@@ -58,7 +58,7 @@ This will output the optimized, minified production files into the `dist/` direc
 To preview your production build locally:
 ```bash
 pnpm run preview
-```
+``` 
 
 ## Available Scripts
 
